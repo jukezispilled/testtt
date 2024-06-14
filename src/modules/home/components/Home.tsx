@@ -42,7 +42,7 @@ const Home = () => {
           className="mb-5 rounded-lg text-2xl font-bold text-yellow-300 transition-transform hover:scale-105 active:scale-100"
           onClick={() => openModal(<Help />)}
         >
-          How to play?
+          How to play
         </button>
 
         <label>
